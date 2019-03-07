@@ -25,3 +25,4 @@ The provided Python script uses the psycopg2 library to query the database and p
 6. Now execute the Python file -python log_analysis.py
 
 
+# log
